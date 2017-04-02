@@ -1,6 +1,6 @@
 {
-  "name": "GCP Next 2017",
-  "short_name": "gcpnext17",
+  "name": "Google Cloud Next 2017",
+  "short_name": "next17",
   "icons": [
     {
       "src": "/static/images/logo.png",
@@ -8,8 +8,8 @@
       "sizes": "192x192"
     }
   ],
-  "theme_color": "#db4639",
-  "background_color": "#d4e3fb",
+  "theme_color": "#4285F4",
+  "background_color": "#ffffff",
   "start_url": "/",
   "orientation": "portrait",
   "display": "standalone"
