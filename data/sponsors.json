@@ -1,9 +1,9 @@
 [{
-  "name": "Sponsor Group Name",
+  "name": "General Sponsor",
   "sponsors": [
     {
-      "name": "Sponsor Name",
-      "image": "/static/images/logo.png"
+      "name": "Google",
+      "image": "/static/images/sponsors/google.svg"
     }
   ]
 }]
