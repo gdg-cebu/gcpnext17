@@ -662,42 +662,42 @@ a {
 
 /** Sponsors Section **/
 
-.sponsors,
-.sponsors ul {
+.thanks,
+.thanks ul {
   padding: 0;
   list-style: none;
   text-align: center;
 }
 
 
-.sponsor-group {
+.thanks-group {
   margin: 8rem 0;
 }
 
-.sponsor-group:last-child {
+.thanks-group:last-child {
   margin-bottom: 0;
 }
 
 
-.group-name {
+.thanks-name {
   margin-bottom: 2em;
   font-weight: normal;
 }
 
 
-.sponsor {
+.thank {
   display: inline-block;
   margin: 0 5rem;
 }
 
 
-.sponsor-logo {
+.thank-logo {
   max-width: 20rem;
   max-height: 10rem;
 }
 
 
-.sponsor-name {
+.thank-name {
   font-weight: normal;
 }
 
