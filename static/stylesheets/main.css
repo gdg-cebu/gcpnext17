@@ -287,6 +287,11 @@ a {
 }
 
 
+.section-footer {
+  margin-top: 5rem;
+}
+
+
 @media all and (min-width: 600px), (min-device-width: 600px) {
   .page-section {
     padding: 7.5rem 0;
