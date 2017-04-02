@@ -3,7 +3,7 @@
   "short_name": "next17",
   "icons": [
     {
-      "src": "/static/images/logo.png",
+      "src": "/static/images/logo-square.png",
       "type": "image/png",
       "sizes": "192x192"
     }
