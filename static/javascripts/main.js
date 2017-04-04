@@ -134,6 +134,24 @@
 })();
 
 
+// Share Link
+(function() {
+  if (typeof navigator.share === 'function') {
+    var link = document.querySelector('.share-link');
+    link.classList.remove('hidden');
+
+    link.addEventListener('click', function(e) {
+      e.preventDefault();
+      navigator.share({
+        title: 'Google Cloud Next Extended Cebu 2017',
+        text: 'Google Cloud Next Extended Cebu 2017',
+        url: 'https://cloudnext.gdgcebu.org/'
+      });
+    });
+  }
+})();
+
+
 function $(selector, context) {
   return (context || document).querySelector(selector);
 }

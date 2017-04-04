@@ -27,6 +27,11 @@ a {
 
 /** Utilities **/
 
+.hidden {
+  display: none;
+}
+
+
 .align-center {
   text-align: center;
 }
@@ -315,6 +320,11 @@ a {
 #landing .event-logo {
   width: 70vmin;
   max-width: 38rem;
+}
+
+
+.share-link {
+  margin-top: 2em;
 }
 
 
