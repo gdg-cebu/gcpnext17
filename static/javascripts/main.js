@@ -58,15 +58,6 @@
       header.style.transition = '';
     }, 100);
   }
-
-  function isMobile() {
-    try {
-      document.createEvent('TouchEvent');
-      return true;
-    } catch (e) {
-      return false;
-    }
-  }
 })();
 
 
@@ -136,7 +127,7 @@
 
 // Share Link
 (function() {
-  if (typeof navigator.share === 'function') {
+  if (isMobile() && typeof navigator.share === 'function') {
     var link = document.querySelector('.share-link');
     link.classList.remove('hidden');
 
@@ -159,4 +150,14 @@ function $(selector, context) {
 
 function $$(selector, context) {
   return (context || document).querySelectorAll(selector);
+}
+
+
+function isMobile() {
+  try {
+    document.createEvent('TouchEvent');
+    return true;
+  } catch (e) {
+    return false;
+  }
 }
