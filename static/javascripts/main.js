@@ -127,7 +127,7 @@
 
 // Share Link
 (function() {
-  if (isMobile() && typeof navigator.share === 'function') {
+  if (typeof navigator.share === 'function') {
     var link = document.querySelector('.share-link');
     link.classList.remove('hidden');
 
