@@ -2,7 +2,7 @@ importScripts('/offline-google-analytics/offline-google-analytics-import.js');
 goog.offlineGoogleAnalytics.initialize();
 
 
-const cacheName = 'gcpnext17-v5';
+const cacheName = 'gcpnext17-v6';
 const pathsToCache = [
   '/',
   '/faqs',

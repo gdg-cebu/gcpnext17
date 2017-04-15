@@ -1,10 +1,15 @@
 [{
   "name": "General Sponsor",
-  "sponsors": [
-    {
-      "name": "Google",
-      "image": "/static/images/sponsors/google.svg",
-      "link": "https://www.google.com.ua/intl/en/about/"
-    }
-  ]
+  "sponsors": [{
+    "name": "Google",
+    "image": "/static/images/sponsors/google.svg",
+    "link": "https://www.google.com.ua/intl/en/about/"
+  }]
+}, {
+  "name": "Official Venue Partner",
+  "sponsors": [{
+    "name": "A Space",
+    "image": "/static/images/sponsors/a-space.png",
+    "link": "https://aspacemanila.com/in/a-space-cebu"
+  }]
 }]
