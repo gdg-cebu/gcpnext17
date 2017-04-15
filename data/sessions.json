@@ -16,7 +16,7 @@
     "image": "/static/images/speakers/albert-padin.png"
   }
 }, {
-  "title": "Shang Yi Lim Talk",
+  "title": "Google cloud functions and IOT with Cloud functions for Firebase",
   "time": "14:45",
   "speaker": {
     "name": "Shang Yi Lim",
