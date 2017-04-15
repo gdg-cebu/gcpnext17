@@ -1,25 +1,42 @@
 [{
-  "title": "Session Title",
-  "summary": "Session summary",
-  "time": "00:00",
+  "title": "Registration",
+  "time": "12:30"
+}, {
+  "title": "Introduction and Opening Remarks",
+  "time": "13:00"
+}, {
+  "title": "Cloud Next Keynote Highlights",
+  "summary": "Video highlights from the 3-day Google Cloud Next 2017 at San Francisco",
+  "time": "13:15"
+}, {
+  "title": "Albert Padin Talk",
+  "time": "14:00",
   "speaker": {
-    "name": "Speaker Name",
-    "image": "/static/images/logo.png"
+    "name": "Albert Padin",
+    "image": "/static/images/speakers/albert-padin.png"
   }
 }, {
-  "title": "Session Title",
-  "summary": "Session summary",
-  "time": "00:00",
+  "title": "Shang Yi Lim Talk",
+  "time": "14:45",
   "speaker": {
-    "name": "Speaker Name",
-    "image": "/static/images/logo.png"
+    "name": "Shang Yi Lim",
+    "image": "/static/images/speakers/shang-yi-lim.png"
   }
 }, {
-  "title": "Session Title",
-  "summary": "Session summary",
-  "time": "00:00",
+  "title": "Codelabs Sessions",
+  "time": "15:30"
+}, {
+  "title": "Open forum with all speakers",
+  "time": "17:30"
+}, {
+  "title": "Closing Remarks",
+  "time": "18:00",
   "speaker": {
-    "name": "Speaker Name",
-    "image": "/static/images/logo.png"
+    "name": "Shad Roi dela Cruz",
+    "image": "/static/images/speakers/shad-roi.png"
   }
+}, {
+  "title": "Wrap Up",
+  "summary": "Photos, giveaways, etc.",
+  "time": "18:15"
 }]
