@@ -602,8 +602,11 @@ a {
 
 .session-title {
   margin: 0;
-  margin-bottom: 0.5em;
   text-align: center;
+}
+
+.session-title:not(:only-child) {
+  margin-bottom: 0.5em;
 }
 
 
@@ -653,6 +656,11 @@ a {
 
   .session-title {
     text-align: left;
+  }
+
+
+  .session-summary:last-child {
+    margin-bottom: 0;
   }
 }
 
