@@ -1,19 +1,16 @@
 [{
-  "name": "Speaker Name",
-  "position": "Position",
-  "company": "Company",
-  "bio": "Speaker bio",
-  "image": "/static/images/logo.png"
+  "name": "Albert Padin",
+  "position": "CTO and Co-Founder",
+  "company": "Symph",
+  "image": "/static/images/speakers/albert-padin.png"
 }, {
-  "name": "Speaker Name",
-  "position": "Position",
-  "company": "Company",
-  "bio": "Speaker bio",
-  "image": "/static/images/logo.png"
+  "name": "Shang Yi Lim",
+  "position": "Software Developer",
+  "company": "Ezypay",
+  "image": "/static/images/speakers/shang-yi-lim.png"
 }, {
-  "name": "Speaker Name",
-  "position": "Position",
-  "company": "Company",
-  "bio": "Speaker bio",
-  "image": "/static/images/logo.png"
+  "name": "Regil Cadavos",
+  "position": "Community Ace",
+  "company": "A Space Cebu",
+  "image": "/static/images/speakers/regil-cadavos.jpg"
 }]
