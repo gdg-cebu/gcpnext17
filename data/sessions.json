@@ -9,22 +9,30 @@
   "summary": "Video highlights from the 3-day Google Cloud Next 2017 at San Francisco",
   "time": "13:15"
 }, {
-  "title": "Albert Padin Talk",
-  "time": "14:00",
-  "speaker": {
-    "name": "Albert Padin",
-    "image": "/static/images/speakers/albert-padin.png"
-  }
-}, {
   "title": "Google cloud functions and IOT with Cloud functions for Firebase",
-  "time": "14:45",
+  "time": "14:00",
   "speaker": {
     "name": "Shang Yi Lim",
     "image": "/static/images/speakers/shang-yi-lim.png"
   }
 }, {
+  "title": "Albert Padin Talk",
+  "time": "14:45",
+  "speaker": {
+    "name": "Albert Padin",
+    "image": "/static/images/speakers/albert-padin.png"
+  }
+}, {
+  "title": "Partner Talk: A Space",
+  "time": "15:30",
+  "summary": "A Space is our event and venue partner",
+  "speaker": {
+    "name": "Regil Cadavos",
+    "image": "/static/images/speakers/regil-cadavos.jpg"
+  }
+}, {
   "title": "Codelabs Sessions",
-  "time": "15:30"
+  "time": "15:45"
 }, {
   "title": "Open forum with all speakers",
   "time": "17:30"
